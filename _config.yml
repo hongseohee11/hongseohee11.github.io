@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise",  "default"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise",  "default", "aqua"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "good & happy"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "홍서희"
