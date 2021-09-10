@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "sally world"
   location         : "대한민국, 용인"
-  email            :"717seohee@gmail.com
+  email            : "717seohee@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
